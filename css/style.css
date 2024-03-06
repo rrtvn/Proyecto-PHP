@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #7FA399;
+}
+#cardheader{
+  background-color: #e2c21e;
+}
+.conteiner-fluid{
+  margin: 0;
+  background-color: #98bb8f;
+  ;
+}
+.card{
+  margin: 0 0 15px 0;
+}
+.card-body{
+  background-color: white;
+}
+.card-header{
+
+  background-color: #fedc2b;
+}
+#card-form{
+  margin-left: 30px;
+}
+#table-articulos{
+  background-color: white;
+}
+#table-categoria{
+  background-color: white;
+}
+/* NAVBAR */
+nav{
+  background-color: #341028;
+}
+button{
+  margin-top: 30px;
+}
+.nav>li{
+  position: relative;
+  display: block;
+  display: inline-block;
+}
+.navbar-static-top {
+    min-height: 4em;
+    position: relative;
+    z-index: 2;
+}
+.nav > ul:hover  > li> a{
+  color: white;
+}
+.nav > li > a {
+	padding: 0 2em;
+  line-height: 6em;
+}
+
+/* MENU ADMINISTRADOR */
+
+.menu{
+  display: inline-block;
+  margin-left: 200px;
+}
+form{
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+}
+span{
+  font: Helvetica;
+  color: white;
+}
